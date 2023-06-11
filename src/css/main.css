@@ -1,0 +1,14 @@
+.github-repos {
+    padding: 40px 15px;
+}
+
+.github-repos input {
+    margin-top: 12px;
+}
+
+.github-repos .instructions {
+    font-size: 12px;
+    color: purple;
+    font-style: italic;
+    margin-top: -11px;
+}
